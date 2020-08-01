@@ -124,6 +124,10 @@ h1, h2, h3 {
     padding: 0.2rem 1rem;
     background: rgba(73, 73, 73, 0.5); }
 
+h6 {
+  margin: 0;
+  font-size: 12px; }
+
 a {
   color: #fff;
   text-decoration: none; }
